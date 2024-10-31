@@ -1,1 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&weight=100&duration=2000&pause=1000&color=615EFC&width=435&lines=D34THXZ%2C+here.;I+create+and+modify.;Userscripts%2C+web+design%2Fstyling%2C+and+Web+Api's.;Currently+Developing+a+website.;%22For+anonymity%2C+a+VPN+is+essential.%22;%22Don't+be+stupid.%22)](https://git.io/typing-svg)
+# Hello, I'm Darkie! 👋
+
+Welcome to my GitHub profile! I'm a developer dedicated to creating useful scripts exactly when they’re needed. My main focus is on developing userscripts that enhance web experiences and improve productivity.
+
+## 🌟 About Me
+
+- 💻 I specialize in creating userscripts to make your browsing experience smoother.
+- ⚙️ I enjoy coding with JavaScript and other languages to automate tasks.
+- 📚 I find inspiration in the little things around me.
+
+## 🚀 Projects
+
+Here are some of my notable projects:
+
+- **[Subtitle and Stream Link Scanner](link-to-your-project)**: Scan for VTT and M3U8 links on any website.
+- **[Iframe Source Scanner](link-to-your-project)**: Scans the webpage for all iframe sources.
+- **[Smooth Scroll Function](https://greasyfork.org/en/scripts/501620-smooth-scroll-function)**: Winceptor (on greasyfork) created this userscript, which uses JavaScript to enable smooth page scrolling. I just made it better.
+
+
+## 📝 Thank You!
+
+Thanks for visiting my profile! If you find my work helpful, don't forget to ⭐️ star my repositories!
