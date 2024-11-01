@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a developer dedicated to creating useful scrip
 
 Here are some of my notable projects:
 
-- **[Subtitle and Stream Link Scanner](https://raw.githubusercontent.com/D34THXZ/userscripts/refs/heads/main/substream.user.js)**: Scan for VTT and M3U8 links on any website.
+- **[StreamScanner](https://raw.githubusercontent.com/D34THXZ/userscripts/refs/heads/main/substream.user.js)**: Scan for VTT/SRT and M3U8/MP4 links on any website.
 - **[Iframe Source Scanner](https://raw.githubusercontent.com/D34THXZ/userscripts/refs/heads/main/iframescan.user.js)**: Scans the webpage for all iframe sources.
 - **[Smooth Scroll Function](https://greasyfork.org/en/scripts/501620-smooth-scroll-function)**: Winceptor (on greasyfork) created this userscript, which uses JavaScript to enable smooth page scrolling. I just made it better.
 
