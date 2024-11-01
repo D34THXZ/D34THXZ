@@ -16,6 +16,8 @@ Here are some of my notable projects:
 - **[Iframe Source Scanner](https://raw.githubusercontent.com/D34THXZ/userscripts/refs/heads/main/iframescan.user.js)**: Scans the webpage for all iframe sources.
 - **[Smooth Scroll Function](https://greasyfork.org/en/scripts/501620-smooth-scroll-function)**: Winceptor (on greasyfork) created this userscript, which uses JavaScript to enable smooth page scrolling. I just made it better.
 
+if you would like to see more, go to [userscripts](//github.com/d34thxz/userscripts).
+
 
 ## 📝 Thank You!
 
